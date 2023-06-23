@@ -3,7 +3,7 @@
 [![Download](https://api.bintray.com/packages/troy379/maven/StfalconImageViewer/images/download.svg) ](https://bintray.com/troy379/maven/StfalconImageViewer/_latestVersion)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# Stfalcon ImageViewer
+# Stfalcon ImageViewer (cloned)
 A simple and customizable full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures. Compatible with all of the most popular image processing libraries such as `Picasso`, `Glide` etc.
 Based on [PhotoView](https://github.com/chrisbanes/PhotoView) by [chrisbanes](https://github.com/chrisbanes).
 
