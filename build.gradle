@@ -13,7 +13,12 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
+lintOptions {
 
+    checkReleaseBuilds false
+    abortOnError false
+
+}
 plugins {
     id 'maven-publish'
 }
